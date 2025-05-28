@@ -1,5 +1,7 @@
 # 🐞 BugNote Manager
 
+[Русский](./README.ru.md)
+
 Minimalistic WPF application for managing bug and task notes. MVVM-based architecture, local storage via LiteDB.
 
 ---
